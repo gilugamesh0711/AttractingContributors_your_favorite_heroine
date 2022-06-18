@@ -24,4 +24,7 @@ What is your favorite anime heroine?
 1. Tohsaka Rin(Fate/stay night [Unlimited Blade Works])
 2. Uchiha Sasuke (Naruto/Naruto Shippuden)
 3. Makise Kurisu(Steins Gate)
+4. Char Aznable（Mobile Suit Gundam: Char's Counterattack）
+5. Winnie
+6. Athrun Zala(Gudam： seed）
 
