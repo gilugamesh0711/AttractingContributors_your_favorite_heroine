@@ -20,4 +20,8 @@ To complete the assignment, please do the following:
 Favorite type of tea
 
 # List of Tea
-- Houjicha(ほうじ茶)
+1. genmai tea
+2. Nilgiri tea
+3. Cold Lemon Red Tea
+4. Apple Tea
+5. Houjicha(ほうじ茶)
