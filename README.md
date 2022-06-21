@@ -24,3 +24,4 @@ Favorite type of tea
 2. Nilgiri tea
 3. Cold Lemon Red Tea
 4. Apple Tea
+5. Houjicha(ほうじ茶)
