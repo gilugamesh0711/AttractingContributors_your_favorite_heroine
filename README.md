@@ -20,4 +20,5 @@ To complete the assignment, please do the following:
 Favorite type of tea
 
 # List of Tea
-- Nilgiri tea
+1. genmai tea
+2. Nilgiri tea
