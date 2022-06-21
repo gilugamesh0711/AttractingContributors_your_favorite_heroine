@@ -20,4 +20,6 @@ To complete the assignment, please do the following:
 Favorite type of tea
 
 # List of Tea
-- Cold Lemon Red Tea
+1. genmai tea
+2. Nilgiri tea
+3. Cold Lemon Red Tea
