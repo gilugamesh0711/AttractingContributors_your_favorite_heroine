@@ -25,3 +25,4 @@ Favorite type of tea
 3. Cold Lemon Red Tea
 4. Apple Tea
 5. Houjicha(ほうじ茶)
+6. Darjeeling
