@@ -20,5 +20,10 @@ To complete the assignment, please do the following:
 Favorite type of tea
 
 # List of Tea
-- Nilgiri tea
-- Yame tea
+1. genmai tea
+2. Nilgiri tea
+3. Cold Lemon Red Tea
+4. Apple Tea
+5. Houjicha(ほうじ茶)
+6. Darjeeling
+7. Yame tea
